@@ -7,6 +7,7 @@ Exemplo: 'babble' se tornará 'ba**le'.
 """
 
 """
+Exercise statement:
 with an input that will provide a string "s", return a string that all the ocurrences of the first
 character are replaced for "*", except the first one.
 Example: 'babble' will return 'ba**le'
