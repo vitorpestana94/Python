@@ -1,3 +1,4 @@
+#uma calculadora de imc simples feita em tkinter
 from tkinter import *
 from functools import partial
 
