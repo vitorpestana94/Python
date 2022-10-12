@@ -1,14 +1,22 @@
 # Python:
-Alguns códigos em python. Some codes in python.
+Estes são alguns códigos em python que codifiquei. A calculadora imc é um projeto pessoal que criei pois queria ter uma primeira experiência com front end, na época ainda não tinha começado a estudar html/css/javascript. Os outros são todos exercícios de diversos cursos e da faculdade que achei interessantes e resolvi mostrar. 
+
+These are some codes in python that i coded.The imc calculator it's a personal project. I created it because i was searching for a first experience with front end development. I didn't started my html/css/javascripts yet when i coded it. The others codes are some interesting coding exercices that i decided to post.
 
 # imc.py:
-Uma calculadora de imc simples feita em tkinter. A simple IMC calculator coded in tkinter.
+Uma calculadora de imc simples feita em tkinter. A simple 
+
+IMC calculator coded in tkinter.
 
 # sum.py:
-soma de todos os numeros pares ou impares no range. Sum all the even or odd numbers in the range.
+soma de todos os numeros pares ou impares no range. 
+
+Sum all the even or odd numbers in the range.
 
 # palindrome.py:
-Uma função que identifica um palíndromo, seja uma palavra ou uma frase. A function that identifies a palindrome word or a palindrome sentence.
+Uma função que identifica um palíndromo, seja uma palavra ou uma frase. 
+
+A function that identifies a palindrome word or a palindrome sentence.
 
 # tintaink.py:
 esse programa identifica quantas latas, galões ou mistura de ambos será necessário para pintar 
