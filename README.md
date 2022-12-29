@@ -1,7 +1,7 @@
 # Python:
-Estes são alguns códigos em python que codifiquei. A calculadora imc é um projeto pessoal que criei pois queria ter uma primeira experiência com front end, na época ainda não tinha começado a estudar html/css/javascript. Os outros são todos exercícios de diversos cursos e da faculdade que achei interessantes e resolvi mostrar. 
+Estes são alguns códigos em python que codifiquei. A calculadora imc é um projeto pessoal que criei pois queria ter uma primeira experiência com front end, na época ainda não tinha começado a estudar html/css/javascript. Os outros são todos exercícios de diversos cursos e da faculdade que achei interessantes e resolvi mostrar. Todas as traduções para inglês foram feitas pelo autor deste diretório.
 
-These are some codes in python that i coded.The imc calculator it's a personal project. I created it because i was searching for a first experience with front end development. I didn't started my html/css/javascripts yet when i coded it. The others codes are some interesting coding exercices that i decided to post.
+These are some codes in python that i coded.The imc calculator it's a personal project. I created it because i was searching for a first experience with front end development. I didn't started my html/css/javascripts yet when i coded it. The others codes are some interesting coding exercices that i decided to post. All the inglish translations was maded by the autor of this directory.
 
 # imc.py:
 Uma calculadora de imc simples feita em tkinter. A simple 
