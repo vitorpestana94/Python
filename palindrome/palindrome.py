@@ -15,3 +15,11 @@ if is_palindrome_sentence(h):
   print("\nThe sentence: '{}'\nis a palindrome".format(h))
 else:
   print("\nThe sentence '{}'\nis not a palindrome".format(h))
+  
+
+"""
+Nova versão deste código utilizando regular expresion
+"""
+def isPalindrome(s):
+        s = re.sub(r'[\s\W_]', "", s).lower()
+        return True if s == s[::-1] else False
