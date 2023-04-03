@@ -1,3 +1,6 @@
+# Link do problema / link of the problem:
+https://leetcode.com/problems/two-sum/
+
 # Enunciado:
 Dado um vetor de inteiros chamado "nums" e um inteiro chamado "target", retorne o indice dos dois números deste vetor que quando somados resultem no inteiro 
 denominado "target".
