@@ -53,4 +53,7 @@ with a string list provide by the function argument, return the count of the str
 higher than two and with identical last two characters.
 for example: the argument ['aba', 'xyz', 'aa', 'x', 'bbb'] return 3.
 
+# Leetcode:
+Esta pasta contém várias resoluções de exercícios do leetcode (https://leetcode.com/). Meu perfil no leetcode é https://leetcode.com/VitorPestana/
 
+This folder contains a several leetcode's (https://leetcode.com/) exercices resolutions. My leetcode's profile it's https://leetcode.com/VitorPestana/
