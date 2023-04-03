@@ -1,4 +1,4 @@
-# Link do problema / link of the problem:
+# Link do problema / Link of the problem:
 https://leetcode.com/problems/two-sum/
 
 # Enunciado:
