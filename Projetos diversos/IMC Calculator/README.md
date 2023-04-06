@@ -4,4 +4,4 @@ Uma calculadora de IMC simples feita em tkinter. Quando estava começando a apre
 
 # English:
 
-A simple IMC calculator coded in tkinter. When i was starting to learn python, i got curious to find out the way to code a window for my codes. So then i searched in python docs and i found out the tkinter package. I learned the basics of it and that's the result.
+A simple IMC calculator coded using tje tkinter library. When i was starting to learn python, i got curious to find out the way to code a window for my codes. So then i searched in python docs and i found out the tkinter package. I learned the basics of it and that's the result.
