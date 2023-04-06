@@ -14,4 +14,8 @@ Nesta pasta há diversos exercícios de cursos e sites diferentes.
 
 In this folder there's several exercices from diferent courses and sites.
 
-##
+## Projetos diversos:
+
+Esta pasta contém alguns projetos codificados usando python.
+
+This folder contains some projects coded using python.
