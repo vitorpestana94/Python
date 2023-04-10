@@ -2,8 +2,10 @@
 
 https://leetcode.com/problems/roman-to-integer/
 
-# Português:
+# Enunciado:
 
+Dado um numeral romano, converta-o para inteiro.
 
+# Statement:
 
-# English:
+Given a roman numeral, convert it to an integer.
