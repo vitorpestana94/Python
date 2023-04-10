@@ -1,5 +1,5 @@
-Class Solution:
-  def romanToInt(self, s: str) -> int:
+class Solution:
+    def romanToInt(self, s: str) -> int:
         InT = 0
         while len(s) != 0:
             if "CM" in s[:]:
