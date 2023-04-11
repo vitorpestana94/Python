@@ -1,3 +1,3 @@
-def metroxcm(n1):
-  return print("{} metros em cm é {}".format(n1, n1*100))
-metroxcm(float(input("Digite os metros para serem convertidos para centímetros\n")))
+def raio(r):
+  return print("A área do círculo de raio {} é {}.\n".format(r,3.14*(r**2)))
+raio(float(input("Qual é o raio do círculo que desejas calcular a área?\n")))
