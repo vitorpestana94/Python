@@ -4,7 +4,7 @@
 
 ## Português:
 
-#### Nesta pasta há alguns exercícios sobre estruturas sequencias em python
+#### Nesta pasta há alguns exercícios sobre estruturas sequencias em python.
 
 ## English:
 
