@@ -1,9 +1,9 @@
-#Solução:
+## Solução:
 
-##Português:
+#### Português:
 
 Esta pasta contém a solução do problema proposto.
 
-##English:
+#### English:
 
 This folder contains the proposeted problem's solution.
