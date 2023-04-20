@@ -2,7 +2,7 @@
 
 ## Português:
 
-Nesta basta contem a resolução da terceira questão proposta.
+Esta pasta contem a resolução da terceira questão proposta.
 
 ## English:
 
@@ -12,7 +12,7 @@ This folder contains the solution of the thirth proposeted question.
 
 ## Português:
 
-Nesta basta contem a resolução da quarta questão proposta.
+Esta pasta contem a resolução da quarta questão proposta.
 
 ## English:
 
@@ -22,7 +22,7 @@ This folder contains the solution of the fourth proposeted question.
 
 ## Português:
 
-Nesta basta contem a resolução da quinta questão proposta.
+Esta pasta contem a resolução da quinta questão proposta.
 
 ## English:
 
