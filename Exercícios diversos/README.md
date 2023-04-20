@@ -8,7 +8,7 @@ Nesta pasta há diversos exercícios de cursos e sites diferentes.
 
 In this folder there's several exercices from diferent courses and sites.
 
-## sum.py:
+## sum:
 
 #### Português:
 
@@ -18,7 +18,7 @@ soma de todos os numeros pares ou impares no range.
 
 Sum all the even or odd numbers in the range.
 
-## palindrome.py:
+## palindrome:
 
 #### Português:
 
@@ -28,7 +28,7 @@ Uma função que identifica um palíndromo, seja uma palavra ou uma frase.
 
 A function that identifies a palindrome word or a palindrome sentence.
 
-## tintaink.py:
+## tintaink:
 
 #### Português:
 
@@ -42,7 +42,7 @@ This program calculate how many cans and gallons will be necessary to paint an a
 First scenery, buying only cans; second scenery, buying only gallons; third scenery, buying both cans and gallons. The program considerates the ink cover capacity and
 how many liters are avaliable to paint in the gallon and in the can. This program is a exercice from the page: https://wiki.python.org.br/EstruturaSequencial
 
-## stringexerc.py:
+## stringexerc:
 
 #### Enunciado do exercício:
 
@@ -57,7 +57,7 @@ with an input that will provide a string "s", return a string that all the ocurr
 character are replaced for "*", except the first one.
 Example: 'babble' will return 'ba**le'
 
-##  matchends.py:
+##  matchends:
 
 #### Português:
 
