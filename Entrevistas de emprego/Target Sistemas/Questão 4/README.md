@@ -2,11 +2,11 @@
 
 ## Português:
 
-Esta pasta contém a solução do problema proposto.
+Esta pasta contém a solução do problema proposto e seu enunciado.
 
 ## English:
 
-This folder contains the proposeted problem's solution.
+This folder contains the proposeted problem's solution and it statement.
 
 # Teste:
 
