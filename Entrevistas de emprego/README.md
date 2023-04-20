@@ -11,7 +11,8 @@ In this folder there's codes for job interviews.
 
 #### Português:
 
-Nesta pasta há um código feito para a entrevista para um emprego remoto da empresa Target sistemas.
+Nesta pasta há um código feito para a entrevista para um emprego remoto da empresa Target sistemas e seu respectivo teste.
 
 #### English:
-In this folder tehre's a code done for a job interview of the Target Sistemas company.
+
+There's in this folder a code done for a job interview of the Target Sistemas company and it respective test.
