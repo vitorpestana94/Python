@@ -1,3 +1,8 @@
+# Exercícios diversos:
+Nesta pasta há diversos exercícios de cursos e sites diferentes.
+
+In this folder there's several exercices from diferent courses and sites.
+
 ## sum.py:
 soma de todos os numeros pares ou impares no range. 
 
@@ -9,7 +14,7 @@ Uma função que identifica um palíndromo, seja uma palavra ou uma frase.
 A function that identifies a palindrome word or a palindrome sentence.
 
 ## tintaink.py:
-esse programa identifica quantas latas, galões ou mistura de ambos será necessário para pintar 
+Esse programa identifica quantas latas, galões ou mistura de ambos será necessário para pintar 
 uma área informada via input e quanto isto custará. Considerando, obviamente, 
 quanto metros a tinta cobra e quanto cada galão e lata contem. Este programa é um exercício da página: https://wiki.python.org.br/EstruturaSequencial
 
@@ -24,7 +29,6 @@ todas as ocorrências do primeiro caracter da string "s"
 foram alterados para '*', tirando a primeira.
 Exemplo: 'babble' se tornará 'ba**le'.
 
-
 Exercise statement:
 with an input that will provide a string "s", return a string that all the ocurrences of the first
 character are replaced for "*", except the first one.
@@ -36,8 +40,6 @@ Example: 'babble' will return 'ba**le'
 Com uma lista de strings fornecida através de argumentos, retorne a contagem do número de
 strings onde o comprimento destas é maior que dois e os dois últimos caracteres são os mesmos.
 por exemplo: o argumento ['aba', 'xyz', 'aa', 'x', 'bbb'] retorna 3.
-
-
 
 with a string list provide by the function argument, return the count of the strings with length 
 higher than two and with identical last two characters.
