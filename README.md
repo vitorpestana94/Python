@@ -25,3 +25,9 @@ This folder contains some projects coded using python.
 Nesta pasta há exercícios de python do site "python Brasil". Link: https://wiki.python.org.br/ListaDeExercicios
 
 There are python's exercices from the site "python Brasil" in this folder. Link: https://wiki.python.org.br/ListaDeExercicios
+
+## Entrevistas de emprego:
+
+Nesta pasta há códigos feitos para entrevistas de emprego.
+
+In this folder there's codes for job interviews.
