@@ -10,15 +10,13 @@ In this folder tehre's a code done for a job interview of the Target Sistemas co
 
 ## Solução:
 
-#### Enunciado:
+#### Português:
 
-Escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e 
-retorne uma mensagem avisando se o número informado pertence ou não a sequência.
+Esta pasta contém a solução do problema proposto.
 
-#### Statement:
+#### English:
 
-Develop a program, using the leanguage that you preferer, that receives a number as a parameter, calculate the fibonacci sequence
-and returns a message informing if that number is member of the fibonacci sequence or not.
+This folder contains the proposeted problem's solution.
 
 ## Teste:
 
