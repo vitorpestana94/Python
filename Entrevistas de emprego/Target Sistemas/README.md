@@ -1,12 +1,12 @@
-# Questão 3:
+# Questão 2:
 
 ## Português:
 
-Esta pasta contem a resolução da terceira questão proposta.
+Esta pasta contem a resolução da segunda questão proposta.
 
 ## English:
 
-This folder contains the solution of the thirth proposeted question.
+This folder contains the solution of the second proposeted question.
 
 # Questão 4:
 
