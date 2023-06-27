@@ -57,7 +57,7 @@ with an input that will provide a string "s", return a string that all the ocurr
 character are replaced for "*", except the first one.
 Example: 'babble' will return 'ba**le'
 
-##  matchends:
+##  Matchends:
 
 #### Português:
 
@@ -70,3 +70,13 @@ por exemplo: o argumento ['aba', 'xyz', 'aa', 'x', 'bbb'] retorna 3.
 with a string list provide by the function argument, return the count of the strings with length 
 higher than two and with identical last two characters.
 for example: the argument ['aba', 'xyz', 'aa', 'x', 'bbb'] return 3.
+
+## Atividade Avaliada:
+
+#### Português:
+
+Esta pasta contem exercícios avaliados propostos por um professor da faculdade que cursei.
+
+#### English:
+
+In this folder, there are graded exercises assigned by my college professor for the course I completed.
